@@ -1,0 +1,4 @@
+{
+  "install": "pip3 install --user --no-cache notebook",
+  "start": "jupyter notebook --port=3000 --ip=0.0.0.0 --no-browser --NotebookApp.token='' --NotebookApp.password='' /"
+}
